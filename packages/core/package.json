@@ -1,6 +1,6 @@
 {
   "name": "@youchen-cli/core",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "youchen-cli core",
   "author": "youchen <120275191@qq.com>",
   "homepage": "",
@@ -24,7 +24,7 @@
     "test": "echo \"core \""
   },
   "dependencies": {
-    "@youchen-cli/utils": "^1.0.4"
+    "@youchen-cli/utils": "^1.0.5"
   },
   "gitHead": "efa113373f678eb1265f1605b584dac68cbe95f4"
 }
