@@ -12,8 +12,5 @@
   "devDependencies": {
     "@types/node": "^14.14.41",
     "lerna": "^4.0.0"
-  },
-  "publishConfig": {
-    "access": "public"
   }
 }
