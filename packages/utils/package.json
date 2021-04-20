@@ -18,5 +18,6 @@
   },
   "scripts": {
     "test": "echo \"utils\""
-  }
+  },
+  "gitHead": "ae7605dacf156424c761c76b7d7ca146e0518916"
 }
