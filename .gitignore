@@ -1,6 +1,7 @@
 .vscode
 node_modules
 package-lock.json
+lerna-debug.log
 
 packages/**/node_modules
 packages/**/package-lock.json
